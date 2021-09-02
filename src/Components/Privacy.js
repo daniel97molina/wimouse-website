@@ -2,13 +2,13 @@ import React from "react";
 
 const Privacy = () => {
   return (
-    <main style={{ textAlign: "justify" }}>
+    <main style={{ textAlign: "justify", padding: '20px' }}>
       <h1 style={{ textAlign: "center" }}>Privacy Policy</h1>
       <p>
         This privacy policy governs your use of the software application
-        "Webcam4all IP Camera" for Android devices, created by 503 Studios,
-        available on the Google Play Store and at{" "}
-        <a href="https://webcam4all.surge.sh">webcam4all.surge.sh</a>
+        "WiMouse PC & Mac remote control" for Android and iOS devices, created
+        by 503 Studios, available on the Google Play Store, Apple App Store, and
+        at <a href="https://wimouse.web.app">wimouse.web.app</a>
         <br />
         <br />
         By using the Application, you are consenting to the collection and
@@ -16,14 +16,12 @@ const Privacy = () => {
         as amended by the developer.
         <br />
         <br />
-        The Application does not collect any personal information. Camera video
-        and microphone audio data is streamed directly to connected client
-        programs, such as your web browser, and you are fully responsible for
-        all information contained within the live audio and video stream. The
-        access to the data streams are ruled by your Firewall settings, which
-        are, in most cases, configured to block access from outside the local
-        network by default. Enabling external access requires the user to
-        manually configure the firewall and should be done at users own risk.
+        The Application does not collect any personal information. All the data
+        is streamed directly to the connected WiMouse Server program. The access
+        to the data streams are ruled by your Firewall settings, which are, in
+        most cases, configured to block access from outside the local network by
+        default. Enabling external access requires the user to manually
+        configure the firewall and should be done at users own risk.
         <br />
         <br />
         You can erase all data stored by the Application by uninstalling it from
